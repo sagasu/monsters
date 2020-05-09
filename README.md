@@ -1,2 +1,3 @@
 # monsters
-simple monsters app
+monsters app
+https://sagasu.github.io/monsters
